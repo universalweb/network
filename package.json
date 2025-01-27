@@ -121,7 +121,7 @@
 		"@babel/core": "^7.23.7",
 		"@babel/eslint-parser": "^7.23.3",
 		"@babel/preset-env": "^7.23.8",
-		"@electron-forge/cli": "^6.0.5",
+		"@electron-forge/cli": "^7.6.1",
 		"@microsoft/eslint-formatter-sarif": "^3.0.0",
 		"@rollup/plugin-terser": "^0.4.4",
 		"@stylistic/eslint-plugin": "^1.5.4",
